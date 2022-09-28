@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	// rate limiting
-	github.com/didip/tollbooth/v7 v7.0.0
+	github.com/didip/tollbooth/v7 v7.0.1
 	github.com/gin-contrib/zap v0.1.0
 
 	// routing
