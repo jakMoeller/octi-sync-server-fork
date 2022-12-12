@@ -20,7 +20,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.10.0
 
 	// logging
-	go.uber.org/zap v1.23.0
+	go.uber.org/zap v1.24.0
 
 	// yaml+json parsing
 	gopkg.in/yaml.v3 v3.0.1
